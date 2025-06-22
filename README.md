@@ -43,5 +43,8 @@ Tüm kombinasyonlar test edilerek **en iyi performans** bulunur.
 ### 📊 Görselleştirme
 - En iyi turun grafiksel gösterimi  
 - Jenerasyonlara göre **uygunluk yakınsama grafiği**
+<img width="1792" alt="tsp5" src="https://github.com/user-attachments/assets/186d716f-05a8-4137-9ce5-d154ba8618cd" />
 
+<img width="1792" alt="tsp70-en-iyi-parametre-sonuc" src="https://github.com/user-attachments/assets/1f36e4cb-7e37-4d4b-9a8b-0e24f1fe36e3" />
 
+<img width="1792" alt="tsp100-en-iyi-parametreler-sonuc" src="https://github.com/user-attachments/assets/cb04b5a3-7024-4928-9658-80ff436f1cee" />
